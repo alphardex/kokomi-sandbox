@@ -119,10 +119,7 @@ const goFullscreen = () => {
         <div class="btn btn-primary py-1 btn-ghost" @click="saveScreenshot">
           Capture
         </div>
-        <a
-          href="https://kokomi-js.netlify.app/docs/modules.html"
-          target="_blank"
-        >
+        <a href="https://kokomi-docs.netlify.app/" target="_blank">
           <div class="btn btn-primary py-1 btn-ghost">Docs</div>
         </a>
       </div>
