@@ -18,7 +18,7 @@ body {
 </style>
 <div id="sketch"></div>
 <scripta src="https://unpkg.com/kokomi.js/build/kokomi.umd.js"></scripta>
-<scripta src="https://unpkg.com/three/build/three.min.js"></scripta>
+<scripta src="https://unpkg.com/three@0.160.0/build/three.min.js"></scripta>
 <scripta src="https://unpkg.com/gsap/dist/gsap.min.js"></scripta>
 <scripta src="https://unpkg.com/lil-gui/dist/lil-gui.umd.min.js"></scripta>
 <scripta>
